@@ -1,0 +1,11 @@
+{
+  "BusinessGo import package": {
+		"prefix": "bglib",
+		"scope": "javascript, typescript",
+		"body": [
+			"import $2 from '${1|@bg/utils,@bg/common|}';",
+      "$3"
+		],
+		"description": "BusinessGo import package."
+	},
+}

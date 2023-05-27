@@ -1,0 +1,29 @@
+{
+  "name": "vsc-extension-my-snippet",
+  "displayName": "vsc-extension-my-snippet",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "path": "./snippets/common-language.code-snippets"
+      },
+      {
+        "path": "./snippets/javascript.code-snippets"
+      },
+      {
+        "path": "./snippets/common-wording.code-snippets"
+      },
+      {
+        "language": "markdown",
+        "path": "./snippets/markdown.code-snippets"
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "BusinessGo readme template": {
+		"prefix": "bgreadme",
+		"body": [
+			"# ${WORKSPACE_NAME:Service Name}",
+			"",
+      "## Description",
+			"",
+			"$1",
+			"",
+      "## Development",
+			"",
+			"$2",
+			"",
+		],
+		"description": "BusinessGo readme template"
+	},
+}

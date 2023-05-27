@@ -1,0 +1,9 @@
+{
+  "BusinessGo TODO commment": {
+		"prefix": "bgtodo",
+		"body": [
+      "$LINE_COMMENT TODO: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE $1. Related Ticket: WDDSB-${2:0}. Author: $3."
+    ],
+		"description": "BusinessGo import package."
+	}
+}
