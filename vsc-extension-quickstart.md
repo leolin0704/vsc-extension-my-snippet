@@ -1,4 +1,4 @@
-# Welcome to your VS Code Extension
+# vsc-extension-my-snippet
 
 My extension learning for code snippet.
 
