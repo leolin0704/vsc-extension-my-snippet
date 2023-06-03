@@ -1,20 +1,20 @@
 {
 	"HSBC": {
-		"prefix": "wh",
+		"prefix": "hsbc",
 		"body": [
 			"HSBC",
 		],
 		"description": "HSBC"
 	},
 	"BusinessGo": {
-		"prefix": "wbg",
+		"prefix": "bg",
 		"body": [
-			"${1|BusinessGo,Business Go,HSBC Business Go|}",
+			"${1|BusinessGo,Business Go,HSBC BusinessGo, HSBC Business Go|}",
 		],
 		"description": "BusinessGo"
 	},
 	"SiriusBeyond": {
-		"prefix": "wsb",
+		"prefix": "sb",
 		"body": [
 			"SiriusBeyond",
 		],

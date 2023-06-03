@@ -1,5 +1,10 @@
 # vsc-extension-my-snippet
 
+## Install Preparation
+
+- For development: `npm install -g yo generator-code`
+- For package&Publish: `npm install -g @vscode/vsce`
+
 My extension learning for code snippet.
 
 ## Related docs
